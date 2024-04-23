@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arghyaguha012" target="blank"><img src="https://img.shields.io/twitter/follow/arghyaguha012?logo=twitter&style=for-the-badge" alt="arghyaguha012" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend, Spring**
+- 🌱 I’m currently learning **Next JS / React Native**
 
 - 💬 Ask me about **Reactjs, Java, Nodejs, SQL**
 
