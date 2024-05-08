@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arghyaguha012@gmail.com**
 
-- ⚡ Fun fact **Writing Code Till AI takes my JOB or if I get One**
+- ⚡ Fun fact **Cats have fewer toes on their back paws than their front paws**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
